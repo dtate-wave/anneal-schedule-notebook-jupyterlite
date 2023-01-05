@@ -2,6 +2,8 @@
   https://circleci.com/gh/dwave-examples/anneal-schedule-notebook.svg?style=svg)](
   https://circleci.com/gh/dwave-examples/anneal-schedule-notebook)
 
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://dtate-wave.github.io/anneal-schedule-notebook-jupyterlite/)
+
 # Anneal Schedule
 
 This notebook explains and demonstrates the global anneal scheduling features.
